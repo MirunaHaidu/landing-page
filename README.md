@@ -14,7 +14,7 @@ Llama Drama is a fun and visually engaging landing page that showcases llama-rel
 
 ## Preview
 
-Check out the pictures with amusing captions [here](https://imgur.com/g0eVPN6) [and here](https://imgur.com/eWmo36j).
+Check out the preview [here](https://imgur.com/g0eVPN6) [and here](https://imgur.com/eWmo36j).
 
 ## Getting Started
 
