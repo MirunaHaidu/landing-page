@@ -4,9 +4,9 @@ Welcome to the Llama Drama landing page! This is a static website that introduce
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Introduction](#introduction)
+- [Preview](#preview)
+- [Getting Started](#getting-started)
 
 ## Introduction
 
