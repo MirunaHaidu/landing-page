@@ -13,8 +13,8 @@ Welcome to the Llama Drama landing page! This is a static website that introduce
 Llama Drama is a fun and visually engaging landing page that showcases llama-related content. It features llama images, amusing captions, and a call-to-action button for users to explore further.
 
 ## Preview
-![Llama Drama Preview](https://imgur.com/g0eVPN6)
-Check out the pictures with amusing captions [here](https://imgur.com/eWmo36j).
+
+Check out the pictures with amusing captions [here](https://imgur.com/g0eVPN6) [and here](https://imgur.com/eWmo36j).
 
 ## Getting Started
 
